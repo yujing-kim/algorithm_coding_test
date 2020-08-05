@@ -1,5 +1,17 @@
-# 17389 행복 구현
+# 17389 보너스점수
 n = int(input())
-l = list(map(int,input().split()))
+l = list(map(ord,list(input())))
+# O(알파벳 대문자 O, ASCII 코드 79)와 X(알파벳 대문자 X, ASCII 코드 88)
 
-print(max(l)-min(l))
+# print(l)
+b_flag = 1 # flag
+bonus = 0
+total = 0
+for idx,i in enumerate(l,1):
+    if i == 79:
+        total = total + idx
+        bonus = bonus + 1
+    else:
+        bonus = 0
+
+print(total,bonus)

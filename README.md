@@ -8,3 +8,4 @@ algorithm for coding test
 #### [알고리즘 분류](Classification)
 #### [기타문제풀이](Etc)
 #### [삼성 sw 역량테스트 기출](Samsung_SW_test)
+#### [파이썬 for problem solving](ps_python)

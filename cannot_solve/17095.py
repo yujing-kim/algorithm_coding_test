@@ -37,4 +37,3 @@ print(min(ans_l)+1)
 
 
 
-

@@ -1,22 +1,36 @@
 # 16675_두개의 손_구현_시뮬레이션_조건문
 import sys
 srp = list(sys.stdin.readline().split())
-ms= srp[:2].sort()
-tk= srp[2:].sort()
-print(ms, tk)
-# 0,1 : MS, 2,3: TK
-# S R P 가위 바위 보 -> sort : PRS
-# S>P   R>S   P>R
-# 1>0   2>1   0>2
 
-win_dict = {
-    'SS' : 'PP',
+ms= ''.join(srp[:2])
+tk= ''.join(srp[2:])
+# print(ms, tk)
 
+# 상대방이 같은 것을 낸 경우에만 이길 수 있다.
+# win_dict = {
+#     'SS' : 'PP',
+#     'PS' : ['PP','RR']
+#     'RS' : ['SS','PP']
+#     'PR' : ['RR','PP']
+#     'RR' : 'SS',
+#     'PP' : 'RR',
+# }
+
+win_dic = {
+    'S' : 'P',
+    'P' : 'R',
+    'R' : 'S'
 }
+flg = 0
+for i in range(2):
+    if win_dic[ms[i]]*2 == tk :
+        print('MS')
+        flg = 1
+        break
+    if win_dic[tk[i]]*2 == ms :
+        print('TK')
+        flg = 1
+        break
 
-# 가위가위  가위보 가위바위 바위보     바위바위  보보       1이 낼 수 있는 경우의 수
-# 보 보     보 보  가위가위 바위바위   가위가위  바위바위   이렇게 내면 1이 무조건 이김
-
-
-# if ms[0]=='S' and 'P' in tk:
-#     print(1)
+if flg == 0:
+    print('?')

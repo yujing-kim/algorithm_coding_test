@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47b2d505-e35d-414a-bcf9-bb32518c9252" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm_coding_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm_coding_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps_python/1920.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps_python/1920.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
       <recent name="C:\Users\i\Documents\algorithm_coding_test\cannot_solve" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1920">
+  <component name="RunManager" selected="Python.17072">
     <configuration name="16675" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_coding_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,6 +72,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/16675.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17072" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_coding_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ps_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/17072.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,28 +146,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17389" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_coding_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ps_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/17389.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="1920" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_coding_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.17072" />
         <item itemvalue="Python.1920" />
         <item itemvalue="Python.16675" />
         <item itemvalue="Python.17224" />
         <item itemvalue="Python.17095" />
-        <item itemvalue="Python.17389" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +191,7 @@
       <updated>1596589689604</updated>
       <workItem from="1596676099377" duration="16671000" />
       <workItem from="1596760312079" duration="2414000" />
-      <workItem from="1597279940208" duration="4208000" />
+      <workItem from="1597279940208" duration="13075000" />
     </task>
     <servers />
   </component>
@@ -208,31 +211,36 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="827" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597295323848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597295323848" />
     <state x="1038" y="134" key="FileChooserDialogImpl" timestamp="1596780945155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1038" y="134" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596780945155" />
-    <state width="1101" height="339" key="GridCell.Tab.0.bottom" timestamp="1597284899466">
+    <state width="1047" height="399" key="GridCell.Tab.0.bottom" timestamp="1597301953490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1101" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597284899466" />
-    <state width="1101" height="339" key="GridCell.Tab.0.center" timestamp="1597284899466">
+    <state width="1047" height="399" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597301953490" />
+    <state width="1047" height="399" key="GridCell.Tab.0.center" timestamp="1597301953490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1101" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597284899466" />
-    <state width="1101" height="339" key="GridCell.Tab.0.left" timestamp="1597284899466">
+    <state width="1047" height="399" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597301953490" />
+    <state width="1047" height="399" key="GridCell.Tab.0.left" timestamp="1597301953490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1101" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597284899466" />
-    <state width="1101" height="339" key="GridCell.Tab.0.right" timestamp="1597284899466">
+    <state width="1047" height="399" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597301953490" />
+    <state width="1047" height="399" key="GridCell.Tab.0.right" timestamp="1597301953490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1101" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597284899466" />
+    <state width="1047" height="399" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597301953490" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithm_coding_test$16675.coverage" NAME="16675 Coverage Results" MODIFIED="1596775832275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
-    <SUITE FILE_PATH="coverage/algorithm_coding_test$1920.coverage" NAME="1920 Coverage Results" MODIFIED="1597284899455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$1920.coverage" NAME="1920 Coverage Results" MODIFIED="1597295311999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$17224.coverage" NAME="17224 Coverage Results" MODIFIED="1596707307549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$17072.coverage" NAME="17072 Coverage Results" MODIFIED="1597301953479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$17095.coverage" NAME="17095 Coverage Results" MODIFIED="1596704701612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$17389.coverage" NAME="17389 Coverage Results" MODIFIED="1596676832628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
   </component>

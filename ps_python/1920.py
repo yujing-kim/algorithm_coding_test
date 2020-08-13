@@ -1,3 +1,4 @@
+# 1920
 import sys
 
 n = int(sys.stdin.readline())

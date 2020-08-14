@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="47b2d505-e35d-414a-bcf9-bb32518c9252" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps_python/9037.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps_python/9037.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,6 +190,7 @@
       <workItem from="1596676099377" duration="16671000" />
       <workItem from="1596760312079" duration="2414000" />
       <workItem from="1597279940208" duration="17054000" />
+      <workItem from="1597364614675" duration="3417000" />
     </task>
     <servers />
   </component>
@@ -216,26 +218,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1038" y="134" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596780945155" />
-    <state width="1136" height="298" key="GridCell.Tab.0.bottom" timestamp="1597310252507">
+    <state width="1411" height="295" key="GridCell.Tab.0.bottom" timestamp="1597368055455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1136" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597310252507" />
-    <state width="1136" height="298" key="GridCell.Tab.0.center" timestamp="1597310252507">
+    <state width="1411" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597368055455" />
+    <state width="1411" height="295" key="GridCell.Tab.0.center" timestamp="1597368055455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1136" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597310252507" />
-    <state width="1136" height="298" key="GridCell.Tab.0.left" timestamp="1597310252507">
+    <state width="1411" height="295" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597368055455" />
+    <state width="1411" height="295" key="GridCell.Tab.0.left" timestamp="1597368055455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1136" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597310252507" />
-    <state width="1136" height="298" key="GridCell.Tab.0.right" timestamp="1597310252507">
+    <state width="1411" height="295" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597368055455" />
+    <state width="1411" height="295" key="GridCell.Tab.0.right" timestamp="1597368055455">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1136" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597310252507" />
+    <state width="1411" height="295" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597368055455" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algorithm_coding_test$16675.coverage" NAME="16675 Coverage Results" MODIFIED="1596775832275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
-    <SUITE FILE_PATH="coverage/algorithm_coding_test$9037.coverage" NAME="9037 Coverage Results" MODIFIED="1597310252498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$9037.coverage" NAME="9037 Coverage Results" MODIFIED="1597368055446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$1920.coverage" NAME="1920 Coverage Results" MODIFIED="1597295311999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$17224.coverage" NAME="17224 Coverage Results" MODIFIED="1596707307549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$17072.coverage" NAME="17072 Coverage Results" MODIFIED="1597306835277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />

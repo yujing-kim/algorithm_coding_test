@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47b2d505-e35d-414a-bcf9-bb32518c9252" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ps_python/1074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ps_python/17413.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps_python/15953.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps_python/15953.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps_python/17204.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps_python/17204.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps_python/2480.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps_python/2480.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps_python/2484.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps_python/2484.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps_python/2484_pythonic.py" beforeDir="false" afterPath="$PROJECT_DIR$/ps_python/2484_pythonic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps_python/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ps_python/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +54,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_django" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\i\Documents\algorithm_coding_test\cannot_solve" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1074">
-    <configuration name="1074" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2484_pythonic">
+    <configuration name="15953" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_coding_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +76,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/1074.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/15953.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16769" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17204" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_coding_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +98,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/16769.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/17204.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17072" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2480" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_coding_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +120,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/17072.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/2480.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,29 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1920" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm_coding_test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ps_python" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/1920.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="9037" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2484" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm_coding_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,7 +142,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/9037.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/2484.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2484_pythonic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm_coding_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ps_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ps_python/2484_pythonic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1074" />
-        <item itemvalue="Python.16769" />
-        <item itemvalue="Python.9037" />
-        <item itemvalue="Python.17072" />
-        <item itemvalue="Python.1920" />
+        <item itemvalue="Python.2484_pythonic" />
+        <item itemvalue="Python.2484" />
+        <item itemvalue="Python.15953" />
+        <item itemvalue="Python.2480" />
+        <item itemvalue="Python.17204" />
       </list>
     </recent_temporary>
   </component>
@@ -193,9 +200,15 @@
       <workItem from="1597364614675" duration="4681000" />
       <workItem from="1597386190887" duration="12000" />
       <workItem from="1597713655123" duration="4918000" />
-      <workItem from="1597796830055" duration="10370000" />
+      <workItem from="1597796830055" duration="25732000" />
+      <workItem from="1597884681714" duration="3415000" />
+      <workItem from="1597893358714" duration="1111000" />
+      <workItem from="1597919437452" duration="2770000" />
     </task>
     <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Program Files\Git\bin\bash.exe" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -217,36 +230,45 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="827" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597295323848" />
-    <state x="1038" y="134" key="FileChooserDialogImpl" timestamp="1597813386328">
+    <state x="1038" y="134" key="FileChooserDialogImpl" timestamp="1597898739006">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1038" y="134" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597813386328" />
-    <state width="1174" height="220" key="GridCell.Tab.0.bottom" timestamp="1597814903667">
+    <state x="1038" y="134" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597898739006" />
+    <state width="1352" height="332" key="GridCell.Tab.0.bottom" timestamp="1597921571253">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1174" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597814903667" />
-    <state width="1174" height="220" key="GridCell.Tab.0.center" timestamp="1597814903667">
+    <state width="1352" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597921571253" />
+    <state width="1352" height="332" key="GridCell.Tab.0.center" timestamp="1597921571253">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1174" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597814903667" />
-    <state width="1174" height="220" key="GridCell.Tab.0.left" timestamp="1597814903666">
+    <state width="1352" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597921571253" />
+    <state width="1352" height="332" key="GridCell.Tab.0.left" timestamp="1597921571253">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1174" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597814903666" />
-    <state width="1174" height="220" key="GridCell.Tab.0.right" timestamp="1597814903667">
+    <state width="1352" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597921571253" />
+    <state width="1352" height="332" key="GridCell.Tab.0.right" timestamp="1597921571253">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1174" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597814903667" />
+    <state width="1352" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597921571253" />
+    <state x="724" y="164" key="SettingsEditor" timestamp="1597893308610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597893308610" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algorithm_coding_test$16769.coverage" NAME="16769 Coverage Results" MODIFIED="1597801520842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
-    <SUITE FILE_PATH="coverage/algorithm_coding_test$1074.coverage" NAME="1074 Coverage Results" MODIFIED="1597814903658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$1074.coverage" NAME="1074 Coverage Results" MODIFIED="1597819607094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$16675.coverage" NAME="16675 Coverage Results" MODIFIED="1596775832275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$9037.coverage" NAME="9037 Coverage Results" MODIFIED="1597715767448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$1920.coverage" NAME="1920 Coverage Results" MODIFIED="1597295311999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
-    <SUITE FILE_PATH="coverage/algorithm_coding_test$17224.coverage" NAME="17224 Coverage Results" MODIFIED="1596707307549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$17072.coverage" NAME="17072 Coverage Results" MODIFIED="1597306835277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$17095.coverage" NAME="17095 Coverage Results" MODIFIED="1596704701612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$16769.coverage" NAME="16769 Coverage Results" MODIFIED="1597801520842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$2484_pythonic.coverage" NAME="2484_pythonic Coverage Results" MODIFIED="1597921559733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$17204.coverage" NAME="17204 Coverage Results" MODIFIED="1597822665535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$15953.coverage" NAME="15953 Coverage Results" MODIFIED="1597828792436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$17224.coverage" NAME="17224 Coverage Results" MODIFIED="1596707307549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$2480.coverage" NAME="2480 Coverage Results" MODIFIED="1597825184110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
+    <SUITE FILE_PATH="coverage/algorithm_coding_test$2484.coverage" NAME="2484 Coverage Results" MODIFIED="1597835268202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
     <SUITE FILE_PATH="coverage/algorithm_coding_test$17389.coverage" NAME="17389 Coverage Results" MODIFIED="1596676832628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ps_python" />
   </component>
 </project>

@@ -9,7 +9,8 @@
 ### [Python for PS](ps_python)
 
 프로그래머스 > 고득점kit
-* [2022.07.31] 정렬 > [H-index](algorithm/programmers/sort_h-index.py)
-* [2022.07.31] 정렬 > [가장 큰 수](algorithm/programmers/sort_bignum.py)
-* [2022.08.01] 스택/큐 > [같은 숫자는 싫어](algorithm/programmers/stack_donlikesame.py)
-* [2022.08.02] 해시 >  [폰켓몬](algorithm/programmers/hash_phoneketmon.py)
+* [2022.07.31] 정렬 > [H-index](ps_python/programmers/2022/sort_h-index.py)
+* [2022.07.31] 정렬 > [가장 큰 수](ps_python/programmers/2022/sort_bignum.py)
+* [2022.08.01] 스택/큐 > [같은 숫자는 싫어](ps_python/programmers/2022/stack_donlikesame.py)
+* [2022.08.02] 해시 >  [폰켓몬](ps_python/programmers/2022/hash_phoneketmon.py)
+* [2022.08.03] 해시 > [베스트앨범](ps_python/programmers/2022/hash_bestalbum.py)

@@ -23,8 +23,6 @@ def bfs(graph, start, visited):
             queue.append(i)
             visitied[i] = True
 
-
-
 if __name__ == '__main__':
     graph = [
     [],

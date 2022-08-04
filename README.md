@@ -16,4 +16,4 @@
 * [2022.08.03] 해시 > [베스트앨범](ps_python/programmers/2022/hash_bestalbum.py)
 * [2022.08.03] bfs/dfs > [bfs/dfs 기본 공부하기](ps_python/programmers/2022/dfs_bfs.py)
 * [2022.08.03] bfs/dfs > [타겟 넘버](ps_python/programmers/2022/dfsbfs_targetnum.py) **
-* [2022.08.04] 
+* [2022.08.04] bfs/dfs > [게임 맵 최단거리](ps_python/programmers/2022/dfsbfs_gamemapshort.py)

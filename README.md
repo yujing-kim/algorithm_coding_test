@@ -4,6 +4,7 @@
 ### [c++ for PS](ps_c++)
 ### [삼성 sw 역량테스트 기출](Samsung_SW_test)
 ### [풀지 못한 문제](cannot_solve)
+### [TIPS](tips)
 ---
 > 2022.07.31 ~
 ### [Python for PS](ps_python)
@@ -19,3 +20,5 @@
 * [2022.08.04] bfs/dfs > [게임 맵 최단거리](ps_python/programmers/2022/dfsbfs_gamemapshort.py)
 * [2022.08.04] [입출력 연습하기](ps_python/programmers/2022/io.py)
 * [2022.08.04] bfs/dfs > [네트워크](ps_python/programmers/2022/dfsbfs_network.py)
+* [2022.08.05] 완전탐색 > [최소직사각형](ps_python/programmers/2022/bf_smallrect.py)
+

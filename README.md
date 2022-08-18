@@ -1,13 +1,14 @@
 ## < Algorithm _ coding test >
 
-> ~ 2020
 ### [c++ for PS](ps_c++)
 ### [삼성 sw 역량테스트 기출](Samsung_SW_test)
 ### [풀지 못한 문제](cannot_solve)
+### [Python for PS](ps_python)
 ### [TIPS](tips)
+
 ---
 > 2022.07.31 ~
-### [Python for PS](ps_python)
+
 
 프로그래머스 > 고득점kit
 * [2022.07.31] 정렬 > [H-index](ps_python/programmers/2022/sort_h-index.py)
@@ -22,3 +23,5 @@
 * [2022.08.04] bfs/dfs > [네트워크](ps_python/programmers/2022/dfsbfs_network.py)
 * [2022.08.05] 완전탐색 > [최소직사각형](ps_python/programmers/2022/bf_smallrect.py)
 
+Beakjoon
+* [2022.08.18] [1157:단어공부](ps_python/joon/1157.py)
